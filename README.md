@@ -1,6 +1,6 @@
-<!-- Profile Header Banner (Optional GIF/PNG for attraction) -->
+<!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/6wXcL1k/developer.gif" alt="Developer GIF" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1mX54vtsPQJWda-1R7_Sn9OXXz4JLTTXZ" alt="Profile Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Anil Kumar</h1>
@@ -10,7 +10,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/callmeanil" target="_blank">
+  <a href="https://www.linkedin.com/in/anil-kumar-6a3b051b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kumaranil7781yadav@gmail.com">
@@ -31,7 +31,7 @@
 - 🎓 **B.Tech (CSE)** | Lovely Professional University (2020–2024)  
 - 💼 Currently working as **Full Stack Developer** @ SR Edu Technologies  
 - 🔭 Building **ERP & LMS Platforms** impacting **10k+ users**  
-- 🌱 Currently exploring **Next.js, AWS & CI/CD Pipelines**  
+- 🌱 Exploring **Next.js, AWS & CI/CD Pipelines**  
 - ⚡ Fun Fact: I love building **pixel-perfect UIs** & solving **real-world problems**  
 
 ---
@@ -53,27 +53,46 @@
 
 ---
 
-## 🌟 Personal Projects
-- **Blog Zone (MERN Stack)** → Full auth system with JWT + CRUD blogs  
-- **Trendify (E-Commerce)** → Real-time product data via free APIs  
-- **ID Card Generator** → React.js app to design & download student ID cards  
+## 🌟 Featured Projects
+<p align="left">
+  <a href="https://github.com/callmeanil/BlogZone">
+    <img src="https://img.shields.io/badge/⭐%20BlogZone%20(MERN)-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/callmeanil/Trendify-Ecommerce">
+    <img src="https://img.shields.io/badge/⭐%20Trendify%20(E-Commerce)-green?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/callmeanil/TodoApp_Redux">
+    <img src="https://img.shields.io/badge/⭐%20TodoApp%20(Redux)-orange?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`JavaScript` `TypeScript` `C++` `C` `PHP` `SQL`
+### 🚀 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,c,php" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
-**Frameworks & Libraries:**  
-`React.js` `Next.js` `Redux Toolkit` `Node.js` `Express.js` `REST APIs`  
-`Tailwind CSS` `Bootstrap` `Framer Motion`
+### ⚡ Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
-**Databases:**  
-`MongoDB` `MySQL` `PostgreSQL`
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-**Tools & Platforms:**  
-`Git` `GitHub` `Postman` `DBeaver` `VSCode` `AWS` `WordPress`
+### 🔧 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,wordpress" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+</p>
 
 ---
 
@@ -92,6 +111,13 @@
 
 ---
 
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ## 🏆 Achievements
 - ⭐ **C++ Certification** – Cutshort (2023)  
 - ⭐ **SQL Intermediate** – HackerRank  
@@ -100,5 +126,3 @@
 ---
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
-
----
